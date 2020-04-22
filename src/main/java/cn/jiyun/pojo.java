@@ -4,6 +4,7 @@ public class pojo {
 
     private String uname;
     private Integer age;
+    private String hobby;
 
     public String getUname() {
         return uname;
